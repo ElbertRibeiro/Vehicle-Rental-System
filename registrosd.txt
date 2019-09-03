@@ -1,0 +1,11 @@
+numero da pasta
+nome
+idade
+turma
+cfp
+ano:
+situação
+pendencias
+obs: 
+responsávio
+tel
