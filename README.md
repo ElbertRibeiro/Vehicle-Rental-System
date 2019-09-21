@@ -1,4 +1,3 @@
-# locadora_de_veiculos_db
-Sistema para uma locadora de veiculos com banco de dados
-Sistema para gerenciar  de  dados de clientes de uma locadora de veiculos, criei vários arquivos e no momento irei criar um arquivo
-principal parapoder melhorar o programa.
+# Vehicle-Rental-System
+System for a database car rental company
+This system aims to manage customer data from a car rental company, developed several scripts, the goal is to develop a graphical interface for the program, and can be run on windows and linux.
